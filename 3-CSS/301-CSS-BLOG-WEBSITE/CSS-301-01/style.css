@@ -1,1 +1,18 @@
 /* start your css here */
+body{
+    margin: 0;
+}
+.container{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.container1 p{
+    padding-left:400px;
+    padding-right: 400px;
+    padding-top: 20px;
+}
+.vedio p{
+    padding-left: 400px;
+    padding-right: 400px; 
+}
