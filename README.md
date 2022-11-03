@@ -52,7 +52,8 @@ How to use this repository
      |
 | 5     | CSS   | [CSS-FLEXBOX](./3-CSS/305-CSS-Flexbox/) [CSS-305-02]                       |https://komaletkar.github.io/WebAssignment/3-CSS/305-CSS-Flexbox/CSS-305-02/index.html
   |
-| 5     | CSS   | [CSS-FLEXBOX](./3-CSS/305-CSS-Flexbox/) [CSS-305-03]                       |             |
+| 5     | CSS   | [CSS-FLEXBOX](./3-CSS/305-CSS-Flexbox/) [CSS-305-03]                       |https://komaletkar.github.io/WebAssignment/3-CSS/305-CSS-Flexbox/CSS-305-03/index.html
+             |
 | 5     | CSS   | [CSS-FLEXBOX](./3-CSS/305-CSS-Flexbox/) [CSS-305-04]                       |             |
 | 5     | CSS   | [CSS-FLEXBOX](./3-CSS/305-CSS-Flexbox/) [CSS-305-05]                       |             |
 | 5     | CSS   | [CSS-FLEXBOX](./3-CSS/305-CSS-Flexbox/) [CSS-305-06]                       |             |
