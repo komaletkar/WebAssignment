@@ -69,7 +69,9 @@ How to use this repository
 | 8     | CSS   | [CSS-PSEUDO-CLASSES](./3-CSS/308-CSS-Pseudo-Classes/) [CSS-308-03]         |https://komaletkar.github.io/WebAssignment/3-CSS/308-CSS-Pseudo-Classes/CSS-308-03/index.html
 
   |
-| 9     | CSS   | [CSS-PSEUDO-ELEMETS](./3-CSS/309-CSS-Pseudo-Elements/) [CSS-309-01]        |             |
+| 9     | CSS   | [CSS-PSEUDO-ELEMETS](./3-CSS/309-CSS-Pseudo-Elements/) [CSS-309-01]        |https://komaletkar.github.io/WebAssignment/3-CSS/309-CSS-Pseudo-Elements/CSS-309-01/index.html
+
+ |
 | 10    | CSS   | [CSS-FINAL-PROJECTS](./3-CSS/310-Final-MCT-Projects/) [CSS-310-01]         |             |
 
 # ADVANCED-JS
