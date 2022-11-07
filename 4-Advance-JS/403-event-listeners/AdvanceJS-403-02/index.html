@@ -1,12 +1,110 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
-  </head>
-  <body>
-    Start your code here
-  </body>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Drum Kit</title>
+    <style>
+        body{
+    text-align: center;
+    background-color: #283149
+}
+.container h1{
+    font-size: 5rem;
+  color: #DBEDF3;
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 0 #DA0463;
+  padding-bottom: 90px;
+}
+button{
+    outline: none;
+    border: 10px solid #404B69;
+    font-size: 5rem;
+    font-family: 'Arvo', cursive;
+    line-height: 2;
+    font-weight: 900;
+    color: #DA0463;
+    text-shadow: 3px 0 #dbedf3;
+    border-radius: 15px;
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    margin: 10px;
+    background-color: white;
+    cursor: pointer;
+}
+.btn1{
+    background-image: url("./images/crash.png");
+}
+.btn2{
+    background-image: url("./images/tom2.png");
+}
+.btn3{
+    background-image: url("./images/tom3.png");
+}
+.btn4{
+    background-image: url("./images/tom1.png");
+}
+.btn5{
+    background-image: url("./images/snare.png");
+}
+.btn6{
+    background-image: url("./images/tom4.png");
+}
+.btn7{
+    background-image: url("./images/kick.png");
+}
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Drum 🥁 Kit</h1>
+        <audio src="./sounds/crash.mp3" id="drum"></audio>
+        <audio src="./sounds/tom-1.mp3" id="myAudio"></audio>
+        <audio src="./sounds/tom-2.mp3" id="Audio"></audio>
+        <audio src="./sounds/tom-3.mp3" id="kit"></audio>
+        <audio src="./sounds/snare.mp3" id="music"></audio>
+        <audio src="./sounds/tom-4.mp3" id="sound"></audio>
+        <audio src="./sounds/kick-bass.mp3" id="last"></audio>
+        <button class="btn1" onclick="fn()">w</button>
+        <button class="btn2" onclick="fn1()">a</button>
+        <button class="btn3" onclick="fn2()">s</button>
+        <button class="btn4" onclick="fn3()">d</button>
+        <button class="btn5" onclick="fn4()">j</button>
+        <button class="btn6" onclick="fn5()">k</button>
+        <button class="btn7" onclick="fn6()">l</button>
+    </div>
+    <script>
+        var a=document.getElementById('drum');
+function fn(){
+    a.play();
+}
+var b=document.getElementById('myAudio');
+function fn1(){
+  b.play();  
+}
+var c=document.getElementById('Audio');
+function fn2(){
+    c.play();
+}
+var d=document.getElementById('kit');
+function fn3(){
+    d.play();
+}
+var e=document.getElementById('music');
+function fn4(){
+    e.play();
+}
+var f=document.getElementById('sound');
+function fn5(){
+    f.play();
+}
+var g=document.getElementById('last');
+function fn6(){
+    g.play();
+}
+    </script>
+</body>
 </html>
