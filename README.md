@@ -100,7 +100,9 @@ How to use this repository
 
 
          |
-| 6     | JS    | [DOM-VISUALATION](./4-Advance-JS/406-Data-visualization/) [AdvanceJS-406-01]                |             |
+| 6     | JS    | [DOM-VISUALATION](./4-Advance-JS/406-Data-visualization/) [AdvanceJS-406-01]                |https://komaletkar.github.io/WebAssignment/4-Advance-JS/406-Data-visualization/AdvanceJS-406-01/index.html
+
+        |
 | 7     | JS    | [EMOJI-SEARCH](./4-Advance-JS/407-Emoji-search/) [AdvanceJS-407-01]                         |https://komaletkar.github.io/WebAssignment/4-Advance-JS/407-Emoji-search/AdvanceJS-407-01/index.html
            |
 | 8     | JS    | [LEADERBOARD](./4-Advance-JS/408-leaderboard/) [AdvanceJS-408-01]                           |             |
