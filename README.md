@@ -84,7 +84,8 @@ How to use this repository
       |
 | 1     | JS    | [DOM-MANIPULATION-1](./4-Advance-JS/401-DOM-Manipulation/) [AdvanceJS-401-03]               |https://komaletkar.github.io/WebAssignment/4-Advance-JS/401-DOM-Manipulation/AdvanceJS-401-03/index.html
        |
-| 2     | JS    | [DOM-MANIPULATION-2](./4-Advance-JS/402-DOM-Manipulation/) [AdvanceJS-402-01]               |             |
+| 2     | JS    | [DOM-MANIPULATION-2](./4-Advance-JS/402-DOM-Manipulation/) [AdvanceJS-402-01]               |https://komaletkar.github.io/WebAssignment/4-Advance-JS/404-Mini-Project-Solar System/AdvanceJS-404-01/index.html
+        |
 | 2     | JS    | [DOM-MANIPULATION-2](./4-Advance-JS/402-DOM-Manipulation/) [AdvanceJS-402-02]               |https://komaletkar.github.io/WebAssignment/4-Advance-JS/402-DOM-Manipulation/AdvanceJS-402-02/index.html|
 | 3     | JS    | [EVENT-LISTNERS](./4-Advance-JS/403-Event-Listeners/) [AdvanceJS-403-01]                    |https://komaletkar.github.io/WebAssignment/4-Advance-JS/403-event-listeners/AdvanceJS-403-01/index.html
           |
