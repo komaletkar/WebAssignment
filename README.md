@@ -115,7 +115,8 @@ How to use this repository
            |
 | 10    | JS    | [PROJECTS](./4-Advance-JS/410-Projects/) [AdvanceJS-410-01]                                 |https://komaletkar.github.io/WebAssignment/4-Advance-JS/410-Projects/AdvanceJS-410-01/index.html
     |
-| 10    | JS    | [PROJECTS](./4-Advance-JS/410-Projects/) [AdvanceJS-410-02]                                 |             |
+| 10    | JS    | [PROJECTS](./4-Advance-JS/410-Projects/) [AdvanceJS-410-02]                                 |https://komaletkar.github.io/WebAssignment/4-Advance-JS/410-Projects/AdvanceJS-410-02/index.html
+      |
 | 10    | JS    | [PROJECTS](./4-Advance-JS/410-Projects/) [AdvanceJS-410-03]                                 |https://komaletkar.github.io/WebAssignment/4-Advance-JS/410-Projects/AdvanceJS-410-03/index.html
 
            |
