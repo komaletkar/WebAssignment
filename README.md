@@ -96,7 +96,10 @@ How to use this repository
 | 3     | JS    | [EVENT-LISTNERS](./4-Advance-JS/403-Event-Listeners/) [AdvanceJS-403-03]                    |https://komaletkar.github.io/WebAssignment/4-Advance-JS/403-event-listeners/AdvanceJS-403-03/index.html
 
              |
-| 4     | JS    | [MINI-PROJECT](./4-Advance-JS/404-Mini-Project-Solar%20System/) [AdvanceJS-404-01]          |             |
+| 4     | JS    | [MINI-PROJECT](./4-Advance-JS/404-Mini-Project-Solar%20System/) [AdvanceJS-404-01]          |https://komaletkar.github.io/WebAssignment/4-Advance-JS/404-Mini-Project-Solar System/AdvanceJS-404-01/index.html
+
+
+|
 | 5     | JS    | [WORLD-COUNTRIES](./4-Advance-JS/405-WorldCountries-Data-Visualization/) [AdvanceJS-405-01] |https://komaletkar.github.io/WebAssignment/4-Advance-JS/405-WorldCountries-Data-Visualization/AdvanceJS-405-01/index.html
 
 
