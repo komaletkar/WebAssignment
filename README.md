@@ -109,7 +109,8 @@ How to use this repository
         |
 | 7     | JS    | [EMOJI-SEARCH](./4-Advance-JS/407-Emoji-search/) [AdvanceJS-407-01]                         |https://komaletkar.github.io/WebAssignment/4-Advance-JS/407-Emoji-search/AdvanceJS-407-01/index.html
            |
-| 8     | JS    | [LEADERBOARD](./4-Advance-JS/408-leaderboard/) [AdvanceJS-408-01]                           |             |
+| 8     | JS    | [LEADERBOARD](./4-Advance-JS/408-leaderboard/) [AdvanceJS-408-01]                           |https://komaletkar.github.io/WebAssignment/4-Advance-JS/408-leaderboard/AdvanceJS-408-01/index.html
+    |
 | 9     | JS    | [FROM-VALIDATION](./4-Advance-JS/409-form-validation/) [AdvanceJS-409-01]                   |https://komaletkar.github.io/WebAssignment/4-Advance-JS/409-form-validation/AdvanceJS-409-01/index.html
 
            |
